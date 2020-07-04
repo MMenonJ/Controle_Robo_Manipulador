@@ -1,9 +1,11 @@
 # Reinforcement Learning Control of Robot Manipulator
 
-## Authors: 
+### Authors: 
 Lucas Pereira Cotrim (lucas.cotrim@usp.br)
 Marcos Menon José (marcos.jose@usp.br)
 Eduardo Lobo Lustosa Cabral (lcabral@ipen.br)
+
+## Introduction
 
 Reinforcement Learning Framework for simulation-based positioning control of various robotic manipulators. Two main RL algorithms are implemented: REINFORCE and DQN. For each project, the main file is "<project_name>.m", for example: DQNKuka.m.
 
