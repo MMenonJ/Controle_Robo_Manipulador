@@ -1,9 +1,9 @@
 # Reinforcement Learning Control of Robot Manipulator
 
 ### Authors: 
-Lucas Pereira Cotrim (lucas.cotrim@usp.br)
-Marcos Menon José (marcos.jose@usp.br)
-Eduardo Lobo Lustosa Cabral (lcabral@ipen.br)
+- Lucas Pereira Cotrim (lucas.cotrim@usp.br)
+- Marcos Menon José (marcos.jose@usp.br)
+- Eduardo Lobo Lustosa Cabral (lcabral@ipen.br)
 
 ## Introduction
 
